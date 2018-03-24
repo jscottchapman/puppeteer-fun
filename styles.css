@@ -1,0 +1,18 @@
+.curtains {
+  background-image: url('assets/curtains.jpg');
+  background-size:contain;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+p {
+  font-family: 'Bowlby One SC', cursive;
+  color: white;
+  font-size: 5em;
+  text-decoration: none;
+}
